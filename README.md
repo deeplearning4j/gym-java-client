@@ -1,9 +1,3 @@
-# IMPORTANT: THIS REPOSITORY HAS BEEN ARCHIVED AND GYM-JAVA-CLIENT HAS BEEN MOVED
-gym-java-client has been migrated to a sub-module of the mono-repository here: https://github.com/deeplearning4j/deeplearning4j
-
-All future development will continue at that repository, which should be used for all issues and pull requests.
-
-
 # gym-java-client
 
 A java http client for [gym-http-api](https://github.com/openai/gym-http-api).
